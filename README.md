@@ -1,3 +1,3 @@
 # wallpaper
 UEA
-Trenutna verzija 1.36
+Trenutna verzija 2.0
